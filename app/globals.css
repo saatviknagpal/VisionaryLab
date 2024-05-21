@@ -224,7 +224,7 @@
   }
 
   .home-heading {
-    @apply h1-semibold max-w-[500px] flex-wrap text-center text-white shadow-sm;
+    @apply h1-semibold max-w-[700px] flex-wrap text-center text-white shadow-sm;
   }
 
   /* Credits Page */
@@ -332,7 +332,7 @@
   }
 
   .sidebar-link {
-    @apply p-16-semibold flex size-full gap-4 p-4;
+    @apply p-16-semibold flex size-full gap-4 p-3;
   }
 
   /* TransformationForm Component */
